@@ -1,0 +1,23 @@
+body,html{
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg{
+     background-image: url("fundo-site-roxo.jpg");
+     background-size: cover;
+  
+  
+  
+  }
+
+  .bgform{
+    background-image: url("fb.jpg");
+    max-width: 540px;
+    margin-left: 500px;
+    height: 100%;
+  }
+
+
+  
+  
